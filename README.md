@@ -167,9 +167,7 @@ MVC-C 기반의 아키텍처로, 애플 MVC에 코디네이터 패턴을 적용�
 <br>
 <br>
 
-  아요 최종과제 제출 ㅋ.ㅋ<br>
-  <a href = "https://roomofsimon.notion.site/60da5e2e738e41c18cffd8a3b3406405">링크</a>
-  <br>
+ 
 
 
 ---
